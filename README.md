@@ -1,16 +1,23 @@
-👋 Hello, I'm Oreoluwa!
+# 👋 Hi, I’m Oreoluwa  
 
-I'm a dedicated PhD student in Physics with a deep passion for machine learning, data science, and computational modeling. My work bridges the worlds of theoretical physics and artificial intelligence, and I'm always exploring new ways to apply these skills to solve real-world problems. My PhD research focuses on microgels and colloidal mixtures, where I use Monte Carlo simulations and molecular dynamics to study phase transitions and interactions at a granular level. I also apply machine learning techniques to predict and analyze the behaviors of these complex systems.
+I’m a **PhD Candidate in Physics** working on the **computational modeling of soft materials (microgels)**. I develop and run complex simulations to study soft matter systems, combining physics and advanced coding.  
 
-🔧 Tools & Technologies:
-Programming: Python (PyTorch, TensorFlow, Scikit-Learn), R, Java
-Data Science: Pandas, NumPy, Matplotlib, Seaborn
-Physics Simulation: Monte Carlo, Molecular Dynamics, High-Performance Computing (HPC)
-NLP & Computer Vision: HuggingFace Transformers, OpenCV, CNNs, YOLO
-Quantitative Skills: Machine Learning, Regression, Exploratory Data Analysis, Statistical Analysis, Hyperparameter Tuning, Deep Learning Techniques, Web Scraping, Transfer Learning, Image Classification, Object Detection
+---
 
-🎯 My Mission:
-I'm driven by the challenge of solving complex problems, whether it's through cutting-edge AI techniques or in-depth physical simulations. My goal is to make meaningful contributions to science and technology, blending the best of both worlds.
+## 🔧 Skills  
+- Python, R, Java  
+- Machine Learning & Deep Learning  
+- Monte Carlo & Molecular Dynamics  
 
-🤝 Let's Connect!
-I'm always open to collaborations, new opportunities, or just a good conversation about science, AI, or anything else that sparks curiosity. Feel free to reach out!
+---
+
+## 📂 Repos Here  
+You’ll find:  
+- Physics simulation code  
+- Machine learning projects  
+- End-to-end data science pipelines  
+
+---
+
+## 🤝 Let’s Connect  
+I’m always open to collaborations, new opportunities, or just a good conversation about science, AI, or anything else that sparks curiosity.  
