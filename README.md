@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Oreoluwa  
 
-I’m a **PhD Candidate in Physics** working on the **computational modeling of soft materials (microgels)**. I develop and run complex simulations to study soft matter systems, combining physics and advanced coding.  
+I’m a **PhD Candidate in Physics**. Currently, I **computationally model soft materials (microgels)**. I develop and run complex simulations to study soft matter systems, combining physics and advanced coding.  
 
 ---
 
