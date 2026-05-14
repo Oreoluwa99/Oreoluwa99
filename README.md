@@ -1,17 +1,17 @@
-# 👋 Hi, I’m Oreoluwa  
+# Hi, I’m Oreoluwa  
 
 I’m a **PhD Candidate in Physics**. Currently, I **computationally model soft materials (microgels)**. I develop and run complex simulations to study soft matter systems, combining physics and advanced coding.  
 
 ---
 
-## 🔧 Skills  
+## Skills  
 - Python, R, Java  
 - Machine Learning & Deep Learning  
 - Monte Carlo & Molecular Dynamics  
 
 ---
 
-## 📂 Repos Here  
+## Repos Here  
 You’ll find:  
 - Physics simulation code  
 - Machine learning projects  
@@ -19,5 +19,5 @@ You’ll find:
 
 ---
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 I’m always open to collaborations, new opportunities, or just a good conversation about science, AI, or anything else that sparks curiosity.  
